@@ -20,10 +20,6 @@
                     "ui_label": "Power state"
                 },
                 {
-                    "name": "image",
-                    "ui_label": "Image"
-                },
-                {
                     "type": "row",
                     "items":[
                         {

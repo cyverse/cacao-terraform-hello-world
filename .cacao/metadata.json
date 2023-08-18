@@ -25,12 +25,7 @@
       "type": "string",
       "description": "Instance name"
     },
-    {
-      "name": "image",
-      "type": "cacao_provider_image",
-      "default": "",
-      "description": "Boot image id"
-    },
+
     {
       "name": "flavor",
       "type": "cacao_provider_flavor",
