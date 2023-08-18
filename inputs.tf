@@ -24,7 +24,7 @@ variable "image_uuid" {
 variable "image" {
   type = string
   description = "string, image id; image will have priority if both image and image name are provided"
-  default = ""
+  default = "Featured-Ubuntu22"
 }
 
 variable "flavor" {
